@@ -81,6 +81,7 @@ choice="""Which story you want to hear
 3)Two Goats
 4)Handful of Grain and Coins
 5)Saluting the Donkeys
+6)exit 
 """
 file.close()
 file1.close()
